@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sGeBrpVLNUE=",
+  "dgSpecHash": "PDeKFZnykyI=",
   "success": true,
   "projectFilePath": "/Users/hammadsiddiqui/Projects/ElevatorAlgorithm/ElevatorAlgorithm/Source/ElevatorAlgorithm.csproj",
-  "expectedPackageFiles": [
-    "/Users/hammadsiddiqui/.nuget/packages/microsoft.windowsdesktop.app.ref/10.0.6/microsoft.windowsdesktop.app.ref.10.0.6.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

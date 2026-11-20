@@ -1,0 +1,15 @@
+/Users/hammadsiddiqui/Projects/ElevatorAlgorithm/ElevatorAlgorithm/Source/bin/Debug/net10.0/ElevatorAlgorithm
+/Users/hammadsiddiqui/Projects/ElevatorAlgorithm/ElevatorAlgorithm/Source/bin/Debug/net10.0/ElevatorAlgorithm.deps.json
+/Users/hammadsiddiqui/Projects/ElevatorAlgorithm/ElevatorAlgorithm/Source/bin/Debug/net10.0/ElevatorAlgorithm.runtimeconfig.json
+/Users/hammadsiddiqui/Projects/ElevatorAlgorithm/ElevatorAlgorithm/Source/bin/Debug/net10.0/ElevatorAlgorithm.dll
+/Users/hammadsiddiqui/Projects/ElevatorAlgorithm/ElevatorAlgorithm/Source/bin/Debug/net10.0/ElevatorAlgorithm.pdb
+/Users/hammadsiddiqui/Projects/ElevatorAlgorithm/ElevatorAlgorithm/Source/obj/Debug/net10.0/ElevatorAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hammadsiddiqui/Projects/ElevatorAlgorithm/ElevatorAlgorithm/Source/obj/Debug/net10.0/ElevatorAlgorithm.AssemblyInfoInputs.cache
+/Users/hammadsiddiqui/Projects/ElevatorAlgorithm/ElevatorAlgorithm/Source/obj/Debug/net10.0/ElevatorAlgorithm.AssemblyInfo.cs
+/Users/hammadsiddiqui/Projects/ElevatorAlgorithm/ElevatorAlgorithm/Source/obj/Debug/net10.0/ElevatorAlgorithm.csproj.CoreCompileInputs.cache
+/Users/hammadsiddiqui/Projects/ElevatorAlgorithm/ElevatorAlgorithm/Source/obj/Debug/net10.0/ElevatorAlgorithm.sourcelink.json
+/Users/hammadsiddiqui/Projects/ElevatorAlgorithm/ElevatorAlgorithm/Source/obj/Debug/net10.0/ElevatorAlgorithm.dll
+/Users/hammadsiddiqui/Projects/ElevatorAlgorithm/ElevatorAlgorithm/Source/obj/Debug/net10.0/refint/ElevatorAlgorithm.dll
+/Users/hammadsiddiqui/Projects/ElevatorAlgorithm/ElevatorAlgorithm/Source/obj/Debug/net10.0/ElevatorAlgorithm.pdb
+/Users/hammadsiddiqui/Projects/ElevatorAlgorithm/ElevatorAlgorithm/Source/obj/Debug/net10.0/ElevatorAlgorithm.genruntimeconfig.cache
+/Users/hammadsiddiqui/Projects/ElevatorAlgorithm/ElevatorAlgorithm/Source/obj/Debug/net10.0/ref/ElevatorAlgorithm.dll

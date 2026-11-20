@@ -1,10 +1,10 @@
 # ElevatorAlgorithm
 
-A blank Windows Forms application for the elevator algorithm project.
+A .NET console application for the elevator algorithm project.
 
 ## Run
 
-On Windows with the .NET 10 SDK installed:
+With the .NET 10 SDK installed, run:
 
 ```sh
 dotnet run --project Source/ElevatorAlgorithm.csproj

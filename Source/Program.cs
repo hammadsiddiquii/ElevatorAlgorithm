@@ -1,16 +1,12 @@
-namespace ElevatorAlgorithm;
+Console.WriteLine("ElevatorAlgorithm console application.");
 
-static class Program
-{
-    /// <summary>
-    ///  The main entry point for the application.
-    /// </summary>
-    [STAThread]
-    static void Main()
-    {
-        // To customize application configuration such as set high DPI settings or default font,
-        // see https://aka.ms/applicationconfiguration.
-        ApplicationConfiguration.Initialize();
-        Application.Run(new Form1());
-    }    
-}
+Building building = new Building(10, 1);
+
+Elevator elevator = new Elevator(500);
+
+Person person1 = new Person("Alice", 150, 1);
+Person person2 = new Person("Bob", 200, 4);
+
+elevator.AddPassenger(person1);
+elevator.AddPassenger(person2);
+
